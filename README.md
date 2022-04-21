@@ -6,11 +6,9 @@
 
 3) You're given this list of words: "Hello", "World", "Frame". Discuss the steps or code
 needed to print out this:
-*********
-* Hello *
-* World *
-* Frame *
-*********
+
+![frame](https://user-images.githubusercontent.com/82540037/164365161-7c80c083-ca2b-42ff-a600-cc0471fc9a89.png)
+
 
 Add "The" to the list in 3. and print out The Hello World Frame as above.
 
